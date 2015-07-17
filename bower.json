@@ -1,0 +1,23 @@
+{
+  "name": "Temporary email address validator",
+  "version": "1.0.0",
+  "authors": [
+    "DSK <dsk@idiotinside.com>"
+  ],
+  "description": "Temporary / Disposable Email Validator",
+  "main": "disposable-email.js",
+  "keywords": [
+    "javascript",
+    "validation",
+    "email"
+  ],
+  "license": "MIT",
+  "homepage": "http://idiotinside.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
